@@ -1,0 +1,4 @@
+youtube-python
+pytube
+requests
+google_auth_oauthlib

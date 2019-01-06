@@ -1,0 +1,7 @@
+client_secret.json
+config.ini
+ffmpeg.exe
+mp3/
+downloads/
+venv/
+.idea/
